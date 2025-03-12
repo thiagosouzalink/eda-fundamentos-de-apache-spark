@@ -1,9 +1,7 @@
 from pathlib import Path
-import platform
 import sys
 
 from pyspark.sql import SparkSession
-
 
 root_folder = Path(__file__).parent.parent.parent
 sys.path.append(str(root_folder))
