@@ -3,3 +3,5 @@ folders:
     device: docs/files/device/
     subscription: docs/files/subscription/
     json: docs/files/json/
+    parquet: docs/files/parquet/
+    output: docs/files/output/
